@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,43 +26,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "history.html",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html",
               "RelativeDocumentMoniker": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html",
               "RelativeToolTip": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\hyperlinks\\history.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-25T12:30:39.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "lab6.html",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html",
               "RelativeDocumentMoniker": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html",
               "RelativeToolTip": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\lab6.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-25T12:30:29.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "student.html",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html",
               "RelativeDocumentMoniker": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html",
               "RelativeToolTip": "OPI_Popovych_\u0406\u041F\u0417-13\\lab6_Popovych\\student.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-25T12:30:19.582Z",
               "EditorCaption": ""
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\index.html",
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OPI_Popovych\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-11-25T12:20:55.382Z",
               "EditorCaption": ""
